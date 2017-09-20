@@ -1,2 +1,3 @@
 # Supermarket-Project
-Thankyou to anyone who can help
+The Home page is "Home.html"
+Thank you to anyone who can help
